@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198760217415",
+    "firebase_url": "https://comaugmosiinkprototype.firebaseio.com",
+    "project_id": "comaugmosiinkprototype",
+    "storage_bucket": "comaugmosiinkprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198760217415:android:9f7123a04caedc66",
+        "android_client_info": {
+          "package_name": "com.augmos.iink.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198760217415-v0dn2spo9one91lvu2vscq55tntmhsc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.augmos.iink.prototype",
+            "certificate_hash": "f1a691915728dde3327d19c77f1d8adda82d1b04"
+          }
+        },
+        {
+          "client_id": "198760217415-u2i906dqoq4li56hveffh7e8s4ge1rtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDTU0haEWWWDX4f2CHP0DZVbgUVqFT_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198760217415-u2i906dqoq4li56hveffh7e8s4ge1rtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

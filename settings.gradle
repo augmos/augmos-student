@@ -1,0 +1,5 @@
+rootProject.name = 'com.augmos.iink.prototype'
+
+include ':AUGMOS', ':UIReferenceImplementation'
+project(':AUGMOS').dir = new File(settingsDir, 'AUGMOS')
+project(':UIReferenceImplementation').dir = new File(settingsDir, 'UIReferenceImplementation')

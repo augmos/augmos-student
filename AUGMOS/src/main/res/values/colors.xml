@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#0336FF</color>
+    <color name="colorPrimary">#FFDE03</color>
+    <color name="colorPrimaryDark">#ffab00</color>
+    <color name="image_button_disabled">@android:color/darker_gray</color>
+    <color name="image_button_enabled">@color/colorAccent</color>
+    
+</resources>
